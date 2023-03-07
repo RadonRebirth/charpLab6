@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYnw4GNT5qLiIdhEBHGwH13eAN/8rPrLEMGwUHh/AjFZPcvgbjisI4bCkb9Al2EFfCOCZVp9Jkh9AF8x7vXE/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IVM505\\source\\repos\\csharpLab6\\csharpLab6\\csharpLab6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IVM505\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
